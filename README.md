@@ -21,8 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
