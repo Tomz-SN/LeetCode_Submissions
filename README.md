@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
