@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
@@ -40,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
