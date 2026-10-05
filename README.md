@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Tomz-SN/LeetCode_Submissions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
